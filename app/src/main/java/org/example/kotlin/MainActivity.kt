@@ -14,5 +14,7 @@ class MainActivity : AppCompatActivity() {
         // 3
 
         //ini komentar ami
+
+        //Ini komentar senno
     }
 }
