@@ -12,5 +12,7 @@ class MainActivity : AppCompatActivity() {
         // 1
         // 2
         // 3
+
+        //Ini komentar senno
     }
 }
